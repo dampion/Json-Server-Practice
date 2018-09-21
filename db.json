@@ -1,0 +1,369 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "test put",
+      "author": "parker",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "author": "parker",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "latestMovies": [
+    {
+      "name": "超時空同居",
+      "amount": "30.7萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "id": 1,
+      "imagePath": "http://localhost/~dampion/images/movie/m-001.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年06月24日",
+      "region": "大陆",
+      "language": "国语",
+      "director": "苏伦",
+      "staffList": ["雷佳音", "佟丽娅", "张衣", "于和和", "王正", "陶虹虹", "李念虹", "李光", "杨玏", "范明", "徐峥", "杨迪虹", "方龄", "陈昊虹"],
+      "intro": "来自2018年谷小焦（佟丽娅 饰）与1999年陆鸣（雷佳音 饰），两人时空重叠意外住在同一个房间。从互相嫌弃到试图“共谋大业”，阴差阳错发生了一系列好笑的事情。乐在其中的两人并不知道操控这一切的神秘人竟是想要去2037年“投机取巧”的2018年的……"
+    }, {
+      "name": "後來的我們",
+      "amount": "37.9萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "id": 2,
+      "imagePath": "http://localhost/~dampion/images/movie/m-002.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年06月21日",
+      "region": "大陆",
+      "language": "国语",
+      "director": "刘若英",
+      "staffList": ["井柏然", "周冬雨", "田壮壮", "曲哲明", "刘启恒", "苏小明", "邹倚天", "张子贤", "施予斐", "李剑青"],
+      "intro": "《後來的我們|后来的我们|Us and Them》描述林見清（井柏然 飾）和方小曉（周冬雨 飾）橫跨十年的愛情故事。兩人在歸鄉過年的火車上相遇並一見鍾情，交往後感情維繫不易，最後走向分手。十年後，他們在歸鄉的飛機上再次相逢。這部電影引起許多觀眾的共鳴，票房成績在中國傲然亮眼，甚至打破中國影史女導演票房紀錄。"
+    }, {
+      "name": "古墓麗影-緣起之戰",
+      "amount": "47.9萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "id": 3,
+      "imagePath": "http://localhost/~dampion/images/movie/m-003.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年04月11日",
+      "region": "欧美",
+      "language": "英语",
+      "director": "罗阿尔·乌索格",
+      "staffList": ["艾丽西亚·维坎德", "多米尼克·威斯特", "沃尔顿·戈金斯", "吴彦祖", "克里斯汀·斯科特·托马斯", "汉娜·乔恩-卡门", "尼克·弗罗斯特", "德里克·雅各比", "安东尼奥·阿克儿", "亚历山大·维尧姆", "杰美·温斯顿"],
+      "intro": "劳拉（艾丽西亚·维坎德 Alicia Vikander 饰）的父亲一生都致力于研究古墓，在劳拉尚且年幼的时候，父亲在一场冒险之中失踪了。一晃眼多年过去，劳拉一直拒绝承认父亲已死的消息，也拒绝接手父亲手下的商业帝国。 一次偶然中，劳拉发现了父亲遗留下的冒险笔记，父亲希望劳拉能把这些资料付之一炬，但为了寻找父亲的下落，劳拉决定寻找笔记中记载的岛屿。劳拉找到了名为陆仁（吴彦祖 饰）的男子，两人结伴踏上了旅途。刚一上岛，劳拉和陆仁就遇见了一直和父亲作对的马赛亚斯（沃特·戈金斯 Walton Goggins 饰）以及他的雇佣兵团队。马赛亚斯一心想要找到古墓的踪迹，不惜杀死了不肯透露半点消息的劳拉的父亲，如今，劳拉亦落入了他的魔爪之中，会遭遇怎样的命运呢？"
+    }, {
+      "name": "死侍2",
+      "amount": "27.2萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "id": 4,
+      "imagePath": "http://localhost/~dampion/images/movie/m-006.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年02月13日",
+      "region": "欧美",
+      "language": "英语",
+      "director": "大衛雷奇",
+      "staffList": ["萊恩·雷諾斯", "喬許·布洛林", "莫蓮娜·芭卡琳", "朱利安·丹尼森", "薩琪·畢茲", "T·J·米勒", "布莉安娜·海德布蘭德", "傑克·凱西"],
+      "intro": "不是每個英雄都是好人！「死侍」（萊恩雷諾斯 飾）再次強勢回歸，首次由《捍衛任務》大衛雷奇所執導的《死侍 2》這次除了第一集有出現的「死侍女友」莫蓮娜芭卡琳（Morena Baccarin）、「彈頭少女」布莉安娜海德布蘭德（Brianna Gildebrand）、「盲婦愛兒」萊絲莉厄格絲（Leslie Uggams）還有最強印度計程車司機「阿杜」卡蘭索尼（Karan Soni）全數回歸外，還找來了「機堡」喬許布洛林（Josh Brolin）、「多米諾」薩琪彼茲（Zazie Beetz）由「死侍」所組成的變種人「Ｘ特攻隊」，究竟如何抵抗「機堡」所帶來的攻擊呢？"
+    }, {
+      "name": "摩天大樓",
+      "amount": "29.2萬",
+      "property": "人氣",
+      "type": "・犯罪|動作|驚悚",
+      "id": 5,
+      "imagePath": "http://localhost/~dampion/images/movie/m-005.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年01月15日",
+      "region": "美國",
+      "language": "英语",
+      "director": "勞森·M·托波",
+      "staffList": ["巨石強森", "妮芙·坎貝爾", "黃經漢", "羅倫·穆勒", "帕布羅·薛伯", "文峰", "昆凌", "諾亞·泰勒"],
+      "intro": "《摩天大樓》由夯爆全球的巨石強森領銜主演，詮釋一名前FBI人質救援小組組長兼退伍軍人威爾福特，專門負責摩天大樓的保全。他為了工作來到香港，不巧世界上最高、最安全的大樓發生大火，而他被栽贓為罪魁禍首。威爾一邊逃亡、一邊試圖找出真凶還自己清白，同時必須救出大樓中受困於火海的家人。"
+    }
+  ],
+  "latestDrama": [
+    {
+      "name": "冰與火之歌 第七季",
+      "property": "人氣",
+      "amount": "46.9萬",
+      "type": "・美劇",
+      "id": 1,
+      "imagePath": "http://localhost/~dampion/images/tv/t-c-2018-001.jpg",
+      "category": "電視劇 / TV drama program",
+      "productionYear": "2018",
+      "productionDate": "2018年01月15日",
+      "region": "美國",
+      "language": "英语",
+      "director": "Peter Dinklage",
+      "staffList": ["Peter Dinklage", "Emilia Clarke", "Kit Harington"],
+      "intro": "故事設置在維斯特洛的七個王國，那裡「夏天持續數十年，冬天能持續一輩子」，權力遊戲主要講述王國的七個貴族家族爭奪鐵王座的權力鬥爭；在劇集之初，來自維斯特洛北部區域的冰雪以及狹海以東大陸的威脅逐步加重。"
+    }, {
+      "name": "我的ID是江南美人",
+      "property": "人氣",
+      "amount": "45.7萬",
+      "type": "・韓劇",
+      "id": 2,
+      "imagePath": "http://localhost/~dampion/images/tv/my-id-is-gangnam-beauty.jpg",
+      "category": "電視劇 / TV drama program",
+      "productionYear": "2018",
+      "productionDate": "2018年05月15日",
+      "region": "韓國",
+      "language": "英语",
+      "director": "崔成範",
+      "staffList": ["林秀香", "車銀優", "趙宇麗", "郭東延"],
+      "intro": "《我的ID是江南美人》此劇改編自同名網路漫畫，講述從小因為長相醜陋而受欺凌的女主角在整容後，以為能夠過上新生活，卻在進入大學後經歷與夢想中完全不同的挫敗，在過程中找到真愛的故事。"
+    }, {
+      "name": "你的管家",
+      "property": "人氣",
+      "amount": "48.1萬",
+      "type": "・韓劇",
+      "id": 3,
+      "imagePath": "http://localhost/~dampion/images/tv/t-k-0704-002.jpg",
+      "category": "電視劇 / TV drama program",
+      "productionYear": "2018",
+      "productionDate": "2018年05月15日",
+      "region": "韓國",
+      "language": "英语",
+      "director": "全雨盛/林世俊",
+      "staffList": ["河錫辰","金知妍","李知勛","高媛熙","全秀珍","徐恩雅","李道謙","曹熙奉","延俊錫","尹朱尚","鄭錫勇","李敏英","林智奎","金旻錫","宋尚恩"],
+      "intro": "《我的ID是江南美人》此劇改編自同名網路漫畫，講述從小因為長相醜陋而受欺凌的女主角在整容後，以為能夠過上新生活，卻在進入大學後經歷與夢想中完全不同的挫敗，在過程中找到真愛的故事。"
+    }, {
+      "name": "陽光先生",
+      "property": "人氣",
+      "amount": "49.3萬",
+      "type": "・韓劇",
+      "id": 4
+    }, {
+      "name": "摩天大樓",
+      "property": "人氣",
+      "amount": "46.3萬",
+      "type": "・陸劇",
+      "id": 5
+    }
+  ],
+  "latestDoc": [
+    {
+      "name": "宇宙有道理 第四季",
+      "property": "人氣",
+      "amount": "46.9萬",
+      "type": "・天文",
+      "id": 1,
+      "imagePath": "http://localhost/~dampion/images/documentary/how-the-universe-works-4.jpg",
+      "category": "紀錄片 / Documentary",
+      "productionYear": "2018",
+      "productionDate": "2018年04月15日",
+      "region": "美國",
+      "language": "英语",
+      "director": "Jack Chou",
+      "staffList": ["河錫辰","金知妍","李知勛","高媛熙","全秀珍","徐恩雅","李道謙","曹熙奉","延俊錫","尹朱尚","鄭錫勇","李敏英","林智奎","金旻錫","宋尚恩"],
+      "intro": "該節目探究宇宙如何從無到有，由當初針孔般小點演變成現今所見的浩瀚宇宙。並納入最新天文發現或相關物理進展進行探討，佐以科學家及3DCG模擬動畫解析。為科學頻道太空節目的「績優股」（blue-chip）系列。"
+    }, {
+      "name": "宇宙有道理 第三季",
+      "property": "人氣",
+      "amount": "35.7萬",
+      "type": "・天文",
+      "id": 2,
+      "imagePath": "http://localhost/~dampion/images/documentary/how-the-universe-works-3.jpg",
+      "category": "紀錄片 / Documentary",
+      "productionYear": "2018",
+      "productionDate": "2018年04月15日",
+      "region": "美國",
+      "language": "英语",
+      "director": "Jack Chou",
+      "staffList": ["河錫辰","金知妍","李知勛","高媛熙","全秀珍","徐恩雅","李道謙","曹熙奉","延俊錫","尹朱尚","鄭錫勇","李敏英","林智奎","金旻錫","宋尚恩"],
+      "intro": "該節目探究宇宙如何從無到有，由當初針孔般小點演變成現今所見的浩瀚宇宙。並納入最新天文發現或相關物理進展進行探討，佐以科學家及3DCG模擬動畫解析。為科學頻道太空節目的「績優股」（blue-chip）系列。"
+    }, {
+      "name": "宇宙有道理 第二季",
+      "property": "人氣",
+      "amount": "48.1萬",
+      "type": "・天文",
+      "id": 3
+    }, {
+      "name": "宇宙有道理 第一季",
+      "property": "人氣",
+      "amount": "49.3萬",
+      "type": "・天文",
+      "id": 4
+    }
+  ],
+  "slickImages": [
+    {
+      "path": "http://localhost/~dampion/images/in-banner-1.jpg",
+      "id": 1
+    },
+    {
+      "path": "http://localhost/~dampion/images/in-banner-1.jpg",
+      "id": 2
+    },
+    {
+      "path": "http://localhost/~dampion/images/in-banner-2.jpg",
+      "id": 3
+    }
+  ],
+  "movieVideoList": [
+  {
+      "name": "超時空同居",
+      "amount": "30.7萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "imagePath": "http://localhost/~dampion/images/movie/m-001.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年06月24日",
+      "region": "大陆",
+      "language": "国语",
+      "director": "苏伦",
+      "staffList": ["雷佳音", "佟丽娅", "张衣", "于和和", "王正", "陶虹虹", "李念虹", "李光", "杨玏", "范明", "徐峥", "杨迪虹", "方龄", "陈昊虹"],
+      "intro": "来自2018年谷小焦（佟丽娅 饰）与1999年陆鸣（雷佳音 饰），两人时空重叠意外住在同一个房间。从互相嫌弃到试图“共谋大业”，阴差阳错发生了一系列好笑的事情。乐在其中的两人并不知道操控这一切的神秘人竟是想要去2037年“投机取巧”的2018年的……"
+    }, {
+      "name": "後來的我們",
+      "amount": "37.9萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "imagePath": "http://localhost/~dampion/images/movie/m-002.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年06月21日",
+      "region": "大陆",
+      "language": "国语",
+      "director": "刘若英",
+      "staffList": ["井柏然", "周冬雨", "田壮壮", "曲哲明", "刘启恒", "苏小明", "邹倚天", "张子贤", "施予斐", "李剑青"],
+      "intro": "《後來的我們|后来的我们|Us and Them》描述林見清（井柏然 飾）和方小曉（周冬雨 飾）橫跨十年的愛情故事。兩人在歸鄉過年的火車上相遇並一見鍾情，交往後感情維繫不易，最後走向分手。十年後，他們在歸鄉的飛機上再次相逢。這部電影引起許多觀眾的共鳴，票房成績在中國傲然亮眼，甚至打破中國影史女導演票房紀錄。"
+    }, {
+      "name": "古墓麗影-緣起之戰",
+      "amount": "47.9萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "imagePath": "http://localhost/~dampion/images/movie/m-003.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年04月11日",
+      "region": "欧美",
+      "language": "英语",
+      "director": "罗阿尔·乌索格",
+      "staffList": ["艾丽西亚·维坎德", "多米尼克·威斯特", "沃尔顿·戈金斯", "吴彦祖", "克里斯汀·斯科特·托马斯", "汉娜·乔恩-卡门", "尼克·弗罗斯特", "德里克·雅各比", "安东尼奥·阿克儿", "亚历山大·维尧姆", "杰美·温斯顿"],
+      "intro": "劳拉（艾丽西亚·维坎德 Alicia Vikander 饰）的父亲一生都致力于研究古墓，在劳拉尚且年幼的时候，父亲在一场冒险之中失踪了。一晃眼多年过去，劳拉一直拒绝承认父亲已死的消息，也拒绝接手父亲手下的商业帝国。 一次偶然中，劳拉发现了父亲遗留下的冒险笔记，父亲希望劳拉能把这些资料付之一炬，但为了寻找父亲的下落，劳拉决定寻找笔记中记载的岛屿。劳拉找到了名为陆仁（吴彦祖 饰）的男子，两人结伴踏上了旅途。刚一上岛，劳拉和陆仁就遇见了一直和父亲作对的马赛亚斯（沃特·戈金斯 Walton Goggins 饰）以及他的雇佣兵团队。马赛亚斯一心想要找到古墓的踪迹，不惜杀死了不肯透露半点消息的劳拉的父亲，如今，劳拉亦落入了他的魔爪之中，会遭遇怎样的命运呢？"
+    }, {
+      "name": "死侍2",
+      "amount": "27.2萬",
+      "property": "人氣",
+      "type": "・愛情",
+      "imagePath": "http://localhost/~dampion/images/movie/m-006.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年02月13日",
+      "region": "欧美",
+      "language": "英语",
+      "director": "大衛雷奇",
+      "staffList": ["萊恩·雷諾斯", "喬許·布洛林", "莫蓮娜·芭卡琳", "朱利安·丹尼森", "薩琪·畢茲", "T·J·米勒", "布莉安娜·海德布蘭德", "傑克·凱西"],
+      "intro": "不是每個英雄都是好人！「死侍」（萊恩雷諾斯 飾）再次強勢回歸，首次由《捍衛任務》大衛雷奇所執導的《死侍 2》這次除了第一集有出現的「死侍女友」莫蓮娜芭卡琳（Morena Baccarin）、「彈頭少女」布莉安娜海德布蘭德（Brianna Gildebrand）、「盲婦愛兒」萊絲莉厄格絲（Leslie Uggams）還有最強印度計程車司機「阿杜」卡蘭索尼（Karan Soni）全數回歸外，還找來了「機堡」喬許布洛林（Josh Brolin）、「多米諾」薩琪彼茲（Zazie Beetz）由「死侍」所組成的變種人「Ｘ特攻隊」，究竟如何抵抗「機堡」所帶來的攻擊呢？"
+    }, {
+      "name": "摩天大樓",
+      "amount": "29.2萬",
+      "property": "人氣",
+      "type": "・犯罪|動作|驚悚",
+      "imagePath": "http://localhost/~dampion/images/movie/m-005.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年01月15日",
+      "region": "美國",
+      "language": "英语",
+      "director": "勞森·M·托波",
+      "staffList": ["巨石強森", "妮芙·坎貝爾", "黃經漢", "羅倫·穆勒", "帕布羅·薛伯", "文峰", "昆凌", "諾亞·泰勒"],
+      "intro": "《摩天大樓》由夯爆全球的巨石強森領銜主演，詮釋一名前FBI人質救援小組組長兼退伍軍人威爾福特，專門負責摩天大樓的保全。他為了工作來到香港，不巧世界上最高、最安全的大樓發生大火，而他被栽贓為罪魁禍首。威爾一邊逃亡、一邊試圖找出真凶還自己清白，同時必須救出大樓中受困於火海的家人。"
+    }, {
+      "name": "我不是藥神",
+      "amount": "30.7萬",
+      "property": "人氣",
+      "type": "・喜劇|劇情",
+      "imagePath": "http://localhost/~dampion/images/movie/m-004.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年01月15日",
+      "region": "大陸",
+      "language": "中文",
+      "director": "文牧野",
+      "staffList": ["徐崢","王傳君","章宇","譚卓","楊新鳴","週一圍","王佳佳","王硯輝","賈晨飛","龔蓓苾","寧浩"],
+      "intro": "《我不是藥神》一位不速之客的意外到訪，打破了神油店老闆程勇的平凡人生，他從一個交不起房租的男性保健品商販，一躍成為印度仿製藥「格列寧」的獨家代理商。 收穫巨額利潤的他，生活劇烈變化，被病患們冠以「藥神」的稱號。但是，一場關於救贖的拉鋸戰也在波濤暗湧中慢慢展開。"
+    }, {
+      "name": "復仇者聯盟3-無限之戰",
+      "amount": "50.7萬",
+      "property": "人氣",
+      "type": "・科幻|動作|冒險",
+      "imagePath": "http://localhost/~dampion/images/movie/m-007.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年04月25日",
+      "region": "美國",
+      "language": "英语",
+      "director": "羅素兄弟",
+      "staffList": ["小勞勃·道尼","克里斯·漢斯沃","湯姆·希德斯頓","馬克·魯法洛","克里斯·伊凡","史嘉蕾·喬韓森","班奈狄克·康柏拜區","唐·奇鐸","湯姆·荷蘭","查德威克·鮑斯曼","保羅·貝特尼","伊莉莎白·歐森","安東尼·麥基","賽巴斯汀·斯坦","戴娜·葛里拉","莉蒂莎·韋德","戴夫·巴帝斯塔","柔伊·莎達娜","喬許·布洛林","里斯·普瑞特克"],
+      "intro": "《我不是藥神》一位不速之客的意外到訪，打破了神油店老闆程勇的平凡人生，他從一個交不起房租的男性保健品商販，一躍成為印度仿製藥「格列寧」的獨家代理商。 收穫巨額利潤的他，生活劇烈變化，被病患們冠以「藥神」的稱號。但是，一場關於救贖的拉鋸戰也在波濤暗湧中慢慢展開。"
+    }, {
+      "name": "角頭2-王者再起",
+      "amount": "22.7萬",
+      "property": "人氣",
+      "type": "・犯罪|動作|劇情",
+      "imagePath": "http://localhost/~dampion/images/movie/m-008.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年02月14日",
+      "region": "台灣",
+      "language": "中文",
+      "director": "顏正國",
+      "staffList": ["王識賢","鄒兆龍","鄭人碩","高捷"],
+      "intro": "故事描述仁哥（王識賢 飾演）面對曾經的好兄弟，如今卻「走味」變成『最換帖的敵人』的劉健（鄒兆龍 飾演）重現江湖，不斷挑起紛爭與衝突，破壞仁哥的忍耐與努力維持的和平。看著劉健的事業版圖逐漸擴大，身邊的兄弟為了情義有所犧牲，仁哥終究按耐不住釋放出心中的猛獸，與亦敵亦友的劉健正式開戰，為江湖掀起腥風血雨的廝殺。"
+    }, {
+      "name": "不可能的任務6-全面瓦解",
+      "amount": "10.1萬",
+      "property": "人氣",
+      "type": "・動作|驚悚|冒險",
+      "imagePath": "http://localhost/~dampion/images/movie/m-009.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年05月21日",
+      "region": "美國",
+      "language": "英语",
+      "director": "克里斯多夫麥奎瑞",
+      "staffList": ["湯姆·克魯斯","亨利·卡維爾","文·雷姆斯","賽門·佩吉","蕾貝卡·弗格森","西恩·哈里斯","安琪拉·貝瑟","蜜雪兒·摩納漢","亞歷·鮑德溫"],
+      "intro": "敘述伊森韓特與他的IMF隊員們（亞歷鮑德溫、賽門佩吉和文雷姆斯飾演）以及熟悉的盟友（蕾貝卡弗格森與蜜雪兒摩娜漢所飾演），在一項任務執行失敗後，與時間賽跑試圖力挽狂瀾！這一集更加入重量級卡司：亨利卡維爾、安琪拉貝瑟與凡妮莎柯比，導演是由執導《不可能的任務5：失控國度》克里斯多夫麥奎瑞再度擔綱。"
+    }, {
+      "name": "侏羅紀世界2-殞落國度",
+      "amount": "32.8萬",
+      "property": "人氣",
+      "type": "・科幻|冒險|動作",
+      "imagePath": "http://localhost/~dampion/images/movie/m-010.jpg",
+      "category": "電影  /  Movies",
+      "productionYear": "2018",
+      "productionDate": "2018年02月20日",
+      "region": "美國",
+      "language": "英语",
+      "director": "J·A·巴亞納",
+      "staffList": ["克里斯·普瑞特","布萊絲·達拉斯·霍華","黃榮亮","傑夫·高布倫","陶比·瓊斯","瑞夫·史波","賈斯特·史密斯","丹妮雅·皮內達","泰德·拉文","潔洛汀·卓別林","詹姆士·克倫威爾"],
+      "intro": "三年後的努布拉島，被遺棄的侏羅紀世界主題公園徹底的被所有人遺棄，只剩下恐龍們在叢林過著最原始的生活。但一切因原本休眠的火山再次活躍了起來而有所變化，歐文跟克萊兒決定重新登島拯救島上的恐龍，而歐文從小養大的迅猛龍隊長小藍，仍在荒野中獨自生存著，當他們來到這座荒涼如史前時代的小島，危機四伏，竟還意外發現一項天大的陰謀，究竟他們能不能阻止這項陰謀詭計危害人類呢？"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
